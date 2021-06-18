@@ -17,7 +17,15 @@ https://www.bbc.com/news/business-52660591
 In my opinion, it is very difficult to find a solution to this problem right now, because what is needed for the solution is money and the states should have foreseen them this scenario and allocated the necessary emergency funds for themselves. However, it is possible to find a solution to this problem now. First of all, studies in unemployment institutions should be increased and necessary analyzes should be done correctly. Although Covid-19 has caused unemployment in many sectors, new employment areas have also been opened. For example, shopping from e-commerce sites has increased greatly during the pandemic process, and the need for the number of employees in this field has also increased.
 
 # Results
-As a result of my research, I found that the groups most affected by unemployment in Turkey during the pandemic:
+As a result of my research, I found that the groups most affected by unemployment in during the pandemic:
+
+▪musicans
+▪barbers
+▪cafes & restaurants
+▪gyms
+▪swimming pools
+▪electronic arcade places
+▪night entertainment venues
 
 
 
