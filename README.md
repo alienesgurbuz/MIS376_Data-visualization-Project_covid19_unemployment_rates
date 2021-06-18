@@ -23,7 +23,7 @@ In my opinion, it is very difficult to find a solution to this problem right now
 # Results
 Unemployment is a global and difficult problem to solve. This problem seriously affects people's lives not only economically, but also sociologically and psychologically. This problem that affects people's lives to such a large extent, has peaked with Covid-19 and pandemic conditions, and unemployment has increased more than ever before. These difficult conditions have greatly affected people's lives, and states need to develop their policies to tackle these problems.
 
-# As a result of my research, I found that the sectors most affected negatively by unemployment in during the pandemic:
+As a result of my research, I found that the sectors most affected negatively by unemployment in during the pandemic:
 
 ▪Entertainment Industry
 concerts, theaters, cinemas, night entertainment venues
@@ -44,7 +44,7 @@ gyms, fan revenues in all sports branches of all teams
 ▪Oil Companies
 
 
-# However, there were also growing sectors due to the coronavirus:
+However, there were also growing sectors due to the coronavirus:
 
 ▪Disinfectant and Hygiene Products Manufacturers
 
