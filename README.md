@@ -69,4 +69,5 @@ http://disk.org.tr/2020/04/nisan-2020-issizlik-ve-istihdam-raporu-pandemi-oncesi
 
 ▪ "Unemployment change since the beginning of the year on the basis of sectors." (TUIK datas)
 https://data.tuik.gov.tr/Kategori/GetKategori?p=istihdam-issizlik-ve-ucret-108&dil=1
+
 https://www.bbc.com/ws/includes/idt2/ff9113a5-3dbc-4a5d-a2cc-be80363b43b7/image/816
