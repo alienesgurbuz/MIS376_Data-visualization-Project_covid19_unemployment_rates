@@ -1,4 +1,3 @@
-# MIS376_Data-visualization-Project_covid19_unemployment_rates
 # Impact of Covid 19 on Unemployment
 # Abstract
 The new coronavirus came to the fore for the first time on December 31, 2019, when it was announced that signs of lung infection were detected in 4 people working in a market selling seafood and live animals in Wuhan, China, and in many people who visited this market on the same days. With their long-term effects, pandemics leave indelible scars on society's memories. Beyond being a cause of disease or death, they can have a variety of effects, the most important of which are psychological, social, and economic.
