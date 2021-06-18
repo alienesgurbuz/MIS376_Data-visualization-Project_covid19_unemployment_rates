@@ -20,11 +20,17 @@ In my opinion, it is very difficult to find a solution to this problem right now
 As a result of my research, I found that the groups most affected by unemployment in during the pandemic:
 
 ▪musicans
+
 ▪barbers
+
 ▪cafes & restaurants
+
 ▪gyms
+
 ▪swimming pools
+
 ▪electronic arcade places
+
 ▪night entertainment venues
 
 
