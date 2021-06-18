@@ -50,16 +50,6 @@ However, there were also growing sectors due to the coronavirus:
 
 
 
-
-
-
-
-
-
-
-
-
-
 # References
 ▪ How did the White House respond to the 26 states ending unemployment?
 https://www.cnet.com/personal-finance/8-states-are-ending-unemployment-benefits-and-300-bonus-this-week-what-to-know/
