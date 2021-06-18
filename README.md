@@ -17,21 +17,40 @@ https://www.bbc.com/news/business-52660591
 In my opinion, it is very difficult to find a solution to this problem right now, because what is needed for the solution is money and the states should have foreseen them this scenario and allocated the necessary emergency funds for themselves. However, it is possible to find a solution to this problem now. First of all, studies in unemployment institutions should be increased and necessary analyzes should be done correctly. Although Covid-19 has caused unemployment in many sectors, new employment areas have also been opened. For example, shopping from e-commerce sites has increased greatly during the pandemic process, and the need for the number of employees in this field has also increased.
 
 # Results
-As a result of my research, I found that the groups most affected by unemployment in during the pandemic:
+As a result of my research, I found that the sectors most affected negatively by unemployment in during the pandemic:
 
-▪musicans
+▪Entertainment Industry
+concerts, theaters, cinemas, night entertainment venues
 
-▪barbers
+▪Tradesmen
+barbers, cafe & restaurant owners, arcade places, 
 
-▪cafes & restaurants
+▪Tourism Industry
+swimming pools, hotels
 
-▪gyms
+▪Sports Industry
+gyms, fan revenues in all sports branches of all teams
 
-▪swimming pools
+▪Airline Companies
 
-▪electronic arcade places
+▪Companies with a Global Distribution Network
 
-▪night entertainment venues
+▪Oil Companies
+
+
+However, there were also growing sectors due to the coronavirus:
+
+▪Disinfectant and Hygiene Products Manufacturers
+
+▪Pharmacy and Pharmaceutical Companies
+
+▪Food Producers 
+
+▪Social Media Companies
+
+
+
+
 
 
 
